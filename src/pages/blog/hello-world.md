@@ -4,7 +4,7 @@ title: Hello World
 type: blog
 ---
 
-## Hello world.
+## Hello world?!
 
 Lorem markdownum spumisque sponte Aurora, si luminis dilexit sub pello harena,
 nec, colebatur hausi obvertere illa. Dum Pelion, ictu impetus, fores coniunctior
